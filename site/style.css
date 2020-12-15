@@ -1,0 +1,350 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+ul{
+	margin-right: 100px;
+}
+
+li{
+	display: inline-block;
+	margin-left: 55px;
+	margin-top: 25px;
+}
+
+a{
+	color:#B0B0B0;
+	text-decoration: none;
+	font-family: arial; 
+}
+
+h1{
+	color:#333333;
+}
+.wanstr{
+	background-color: #9A9A9A;
+}
+
+.menu{
+	background-color: black;
+	width: 100%;
+	height: 70px;
+	text-align: right;
+}
+
+.zag{
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 35px;
+	color: #AFAFAF;
+}
+
+.content{
+	height: 500px;
+	width: 100%;
+	position: relative;
+}
+
+.left{
+	margin-left: 100px; 
+	width: 40%;
+	float: left;
+}
+
+.t1{
+	font-size: 35px;
+	margin-top: 20px;
+	color: #fff;
+}
+
+.t2{
+	font-size: 20px;
+	color: #D7D7D7;
+	width: 100%;
+	margin-top: 30px;
+}
+
+.button1{
+	width: 160px;
+	height: 30px;
+	margin-top: 30px;
+	font-size: 20px;
+	border: solid;
+	border-color: #fff;
+	color: #fff;
+	text-align: center;
+	padding-top: 7px;
+
+}
+
+.right{
+	width: 364px;
+	height: 364px;
+	float: right;
+	margin-right: 137px;
+	margin-top: 58px;
+	background-color: #fff;
+	border-radius: 5px;
+
+}
+
+.right h1{
+	width: 364px ;
+	height:35px;
+	font-size: 23px;
+	background-color: #F5F5F5;
+	text-align: center;
+	padding-top: 20px;
+	border-radius: 5px;
+
+
+}
+.textcolor{
+	color: #FF8B38;
+}
+
+input {
+    width: 100%; /* На всю ширину */
+    padding: 0.8rem; /* Поля вокруг текста */
+    box-sizing: border-box; /* Ширина не учитывает padding */
+    margin-bottom: 2rem; /* Расстояние между полями */
+    border: none;
+    border-bottom: 1px solid #D6D6D6;
+}
+
+form {
+    padding: 1rem 1rem 0; /* Поля */
+}
+
+.wanbut{
+	width: 100%;
+	height: 60px;
+	background-color: #FF9B51;
+	text-align: center;
+	border: none;
+	color: #fff;
+	font-size: 17px;
+	margin-top: 9px;
+}
+
+.wanfuter{
+	width: 100%;
+	height: 105px;
+	background-color: #fff;
+	position: relative;
+
+}
+h2{
+	color: black;
+	margin-bottom: 10px;
+}
+.fotertext{
+	float: left;
+	margin-top: 15px;
+	margin-left: 12%;
+	font-size: 18px;
+	color:#8E8F92;
+	display: inline-block;
+}
+
+
+.social1{
+	padding-right: 100px;
+	padding-top:40px;
+	display: inline-block;
+	float: right;
+}
+
+.tystr{
+	width: 100%;
+	height: 656px;
+	background-color: #F5F5F5;
+}
+
+.leftmenu{
+	display: inline-block;
+	
+}
+
+.tybut{
+	display: block;
+	width: 109px;
+	height: 111px;
+	background-color: #333333;
+	color: #fff;
+	border-radius: 2px;
+	border: none;
+	margin-bottom: 1px; ;
+}
+.tybut:hover{
+	background-color: #FF8B38;
+}
+
+.xz{
+	width: 55%;
+	height: 333px;
+	display: inline-block;
+	margin-top: 180px;
+	margin-left: 130px;
+	text-align: left;
+}
+.tystolb{
+	display: inline-block;
+	float: right;
+	color: #8D8E92;
+	font-size: 20px;
+}
+
+h2{
+	color: black;
+}
+
+.texttystr{
+	margin-top: 45px;
+}
+.tystrbut{
+	width: 118px;
+	height: 40px;
+	background-color:#FF8B38;
+	border: none;
+	color: #fff;
+	border-radius: 3px;
+	font-size: 17px;
+	margin-top: 60px;
+}
+
+.tystrimg{
+	display: inline-block;
+	float: right;
+	margin-top: 120px;
+}
+
+.fristr{
+	width: 100%;
+	height: 600px;
+	background-color: #F4F4F4;
+}
+
+.frileft{
+	width: 50%;
+	height: 400px;
+	color: #fff;
+	padding-left: 110px;
+	padding-top: 100px;
+	font-size: 21px;
+	color:#86878B;
+	display: inline-block;
+	float: left;
+
+
+}
+
+.frizag{
+	color: black;
+	font-size: 35px;
+}
+
+.friright{
+	width: 41%;
+	height: 300px;
+	display: inline-block;
+	float: right;
+
+}
+
+.rightblock{
+	width: 450px;
+	margin-top: 100px;
+	background-color: #9A9A9A;
+	color: #B0B0B0;
+	font-size: 35px;
+	text-align: center;
+	padding-top: 120px;
+	padding-bottom: 100px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+.foh1{
+	width: 100%;
+	height: 70px;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 100px;
+	background-color: #fff;
+}
+
+.foh7{
+	width: 100%;
+	height: 100px;
+	margin-top: 10px;
+	font-size: 20px;
+	text-align: center;
+	color: #8E8F92;
+	background-color: #fff;
+}
+
+.fostr{
+	width: 100%;
+	height: 270px;
+	background-color: #fff;
+
+}
+
+.foleft{
+	width: 45%;
+	margin-left: 3%;
+	display: inline-block;
+
+}
+
+.foright{
+	width: 40%;
+	margin-right: 2%;
+	margin-left: 3%;
+	display: inline-block;
+}
+
+.fo{
+	text-align: center;
+}
+
+.fobut{
+	width: 200px;
+	height: 50px;
+	background-color: #FF9B51;
+	text-align: center;
+	border: none;
+	color: #fff;
+	font-size: 17px;
+	margin-top: 8px;
+	border-radius: 5px;
+}
+
+.futer{
+	width: 100%;
+	height: 90px;
+	background-color: black;
+	margin-top: 50px;
+}
+
+.futersocial{
+	text-align: center;
+
+}
+.social2{
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 40px;
+}
+
+.fotertext2{
+	margin-top: 8px;
+	position: absolute;
+  	left: 50%;
+ 	margin-left: -95px; 
+	color: #606060;
+}
